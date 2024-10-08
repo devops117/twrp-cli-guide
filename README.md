@@ -1,6 +1,6 @@
 # TWRP cli guide
 
-## Citation:
+## Citation
 backup/restore flags
 > https://twrp.me/faq/openrecoveryscript.html
 
